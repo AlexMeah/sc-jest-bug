@@ -5,6 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 ## Table of Contents
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AlexMeah/sc-jest-bug.svg?token=3cea6e3ba37d3efda323c00a5c8f41fc18f2086d5da88ae5c4fdbda15d85d243&ts=1520611969090)](https://greenkeeper.io/)
+
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
 - [Folder Structure](#folder-structure)
